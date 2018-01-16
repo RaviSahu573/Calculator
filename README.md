@@ -2,6 +2,6 @@
 Calculator programe
 
 
-For Add implement AddOperatorInterface or Subtract implement SubtractOperatorInterface.
+For Adding implement AddOperatorInterface or Subtract implement SubtractOperatorInterface.
 
 All other opration implementing OperationInterface. 
