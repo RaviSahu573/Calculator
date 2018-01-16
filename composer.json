@@ -1,0 +1,21 @@
+{
+    "name": "ravi/calculator",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RaviSahu",
+            "email": "RaviSahu@djalexander.in"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "autoload": {
+        "psr-4": {"Calculator\\": "src/Calculator"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Calculator\\": "tests/Calculator"}
+    }
+}
